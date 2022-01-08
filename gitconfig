@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vanya.kojouharova@gmail.com
+	name = Vanya Kojouharova
